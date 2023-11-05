@@ -1,0 +1,73 @@
+#estanque{
+    background-color: rgb(47, 172, 255);
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#ranita-amarilla{
+    color: yellow;
+
+}
+
+#ranita-amarill{
+    color: yellow;
+
+}
+
+#ranita-amaril{
+    color: yellow;
+
+}
+
+#ranita-amari{
+    color: yellow;
+
+}
+
+#ranita-amar{
+    color: yellow;
+
+}
+
+#ranita-verde{
+    color: greenyellow;    
+}
+
+#ranita-v{
+    color: greenyellow;   
+}
+
+#ranita-ver{
+    color: greenyellow    
+}
+
+#ranita-verd{
+    color: greenyellow;
+}
+
+#ranita-ve{
+    color: greenyellow;
+}
+
+#ranita-roja{
+    color: red;
+}
+
+#ranita-roj{
+    color: red;
+}
+
+#ranita-ro{
+    color: red;
+}
+
+#ranita-r{
+    color: red;
+}
+
+#ranita-rojaa{
+    color: red;
+}
